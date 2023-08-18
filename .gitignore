@@ -1,4 +1,6 @@
 .vscode/*
 env/*
-model/*
-storage/*
+model/intfloat_multilingual-e5-large/*
+model/llama-2-7b-chat.ggmlv3.q4_0.bin
+storage/index.faiss
+storage/index.pkl
